@@ -9,6 +9,7 @@ com.unity.multiplayer-hlapi.Runtime.csproj
 com.unity.multiplayer-hlapi.Tests.csproj
 com.unity.multiplayer-weaver.Editor.csproj
 LethalDungeon.sln
+!Plugin/LethalDungeon.sln
 
 # General Unity Intermediates / User Settings
 Library
